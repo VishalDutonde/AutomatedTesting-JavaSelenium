@@ -1,7 +1,8 @@
 # 🚀 AutomatedTesting-JavaSelenium
 
-This repository contains my **Automation Testing practice and projects** using **Java, Selenium WebDriver, and TestNG**.  
-It includes basic Selenium programs, Page Object Model (POM) examples, and real-time e-commerce automation flows.  
+💻 Aspiring **Java Developer & Automation Test Engineer**  
+🚀 Passionate about **Selenium | Java | TestNG | Maven | POM Framework**  
+📘 Currently building real-time automation projects for e-commerce applications.  
 
 ---
 
@@ -34,6 +35,6 @@ It includes basic Selenium programs, Page Object Model (POM) examples, and real-
 ---
 
 ## ▶️ How to Run Tests
-1. Clone the repository:  
+1. Clone the repository:
    ```bash
    git clone https://github.com/VishalDutonde/AutomatedTesting-JavaSelenium.git
