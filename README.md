@@ -6,8 +6,8 @@ It includes basic Selenium programs, Page Object Model (POM) examples, and real-
 ---
 
 ## 📂 Folder Structure
-- **SeleniumWebDriverBasics/** → Basic Selenium examples (launch browser, alerts, dropdowns, windows, etc.)  
-- **TestNGExamples/** → TestNG annotations, assertions, parallel execution, etc.  
+- **SeleniumWebDriverBasics/** → Basic Selenium examples (launch browser, locators, alerts, dropdowns, navigation, windows, frames, etc.)  
+- **TestNGExamples/** → TestNG annotations, assertions, parallel execution, priorities, dependencies, groups, parameterization, parallel, listeners, retry, reports etc.  
 - **POMFramework/** → Page Object Model with reusable classes and test cases  
 - **Utilities/** → Helper classes for WebDriver setup, waits, reusable methods  
 
@@ -24,8 +24,8 @@ It includes basic Selenium programs, Page Object Model (POM) examples, and real-
 ---
 
 ## 📘 Topics Covered
-- Selenium WebDriver Basics (Browser commands, Alerts, Frames, Windows, Dropdowns)  
-- TestNG (Annotations, Groups, Listeners, Reports)  
+- Selenium WebDriver Basics (launch browser, locators, alerts, dropdowns, navigation, windows, frames, etc.)  
+- TestNG (TestNG annotations, assertions, parallel execution, priorities, dependencies, groups, parameterization, parallel, listeners, retry, reports etc)  
 - Page Object Model (POM) with reusable page classes  
 - Handling waits (Implicit, Explicit, Fluent)  
 - Automation of e-commerce flows (Login, Search, Add to Cart, Checkout)  
